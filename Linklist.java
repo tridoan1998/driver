@@ -141,6 +141,9 @@ public boolean isEmpty()
 {
 	return size == 0;
 }
+
+
+
 public static void main(String [] args){
 	Linklist List = new Linklist();
 	System.out.printf("%s", List);
