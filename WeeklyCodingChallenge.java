@@ -46,9 +46,20 @@ The elements in the returned array should be in the same order as in the initial
 		return newlist;
 	}
 	
-	public void 
+	
+	/*
+Your task is to find which diagonal is "larger": which diagonal has a bigger sum of their elements.
+
+If the principal diagonal is larger, return "Principal Diagonal win!"
+If the secondary diagonal is larger, return "Secondary Diagonal win!"
+If they are equal, return "Draw!"
+	 */
+
 	
 	
+	/*
+	 * 
+	 */
 	
 	
 	
